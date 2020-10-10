@@ -3,6 +3,7 @@ Página de negociação usando as boas práticas de Javascript com o curso da Al
 Link da página https://page-negotiation-javascript.vercel.app/
 
 Link da publicação no Linkedin monstrando um vídeo sobre o projeto
+https://www.linkedin.com/feed/update/urn:li:activity:6720523168118833152/
 
 Página de negociação usando Javascript e o Bootstrap, com o Javascript foram abordados:
 
